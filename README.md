@@ -2,6 +2,8 @@
 
 A Python script that converts all `.HEIC` images in the current folder to `.PNG` format using parallel processing. Built with `Pillow`, `pyheif`, and `concurrent.futures` for speed.
 
+![heic to png](heic-to-png.png)
+
 ## 🚀 Features
 
 * ✅ Batch converts all `.HEIC` files in the folder
